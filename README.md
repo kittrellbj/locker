@@ -35,11 +35,11 @@ Follow these steps to install Locker:
 
 Here's how to get started with Locker:
 
-1. **Step 1**: Launch the locker.exe application with elevated (administrator) permissions.
-2. **Step 2**: Click "Populate" to scan for user objects/directories on the current system.
-3. **Step 3**: To unlock files, click Unlock. Locker will go through the files and set permissions such that anyone with physical access to the system has Full Control permissions.
-4. **Step 4**: To lock files, click Lock. Locker will reverse the unlocking operation by removing the Full Control permissions it added.
-5. **Step 5**: For quick access, a button called Users Directory will open the Users directory.
+1. **Launch**: Launch the locker.exe application with elevated (administrator) permissions.
+2. **Populate**: Click "Populate" to scan for user objects/directories on the current system.
+3. **Unlock**: To unlock files, click Unlock. Locker will go through the files and set permissions such that anyone with physical access to the system has Full Control permissions.
+4. **Lock**: To lock files, click Lock. Locker will reverse the unlocking operation by removing the Full Control permissions it added.
+5. **Browse**: For quick access, a button called Users Directory will open the Users directory.
 
 ## License
 
