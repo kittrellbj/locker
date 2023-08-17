@@ -1,0 +1,17 @@
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\bin\Debug\net6.0-windows\Locker.exe
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\bin\Debug\net6.0-windows\Locker.deps.json
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\bin\Debug\net6.0-windows\Locker.runtimeconfig.json
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\bin\Debug\net6.0-windows\Locker.dll
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\bin\Debug\net6.0-windows\Locker.pdb
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.csproj.AssemblyReference.cache
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.Form1.resources
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.csproj.GenerateResource.cache
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.AssemblyInfoInputs.cache
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.AssemblyInfo.cs
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.csproj.CoreCompileInputs.cache
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.dll
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\refint\Locker.dll
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.pdb
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\Locker.genruntimeconfig.cache
+Z:\Development\Code\C#\repos\Locker\Locker\Locker\obj\Debug\net6.0-windows\ref\Locker.dll
