@@ -1,6 +1,6 @@
 # Locker
 
-Locker is a comprehensive software solution designed to manage the locking and unlocking of users' directories on Windows computing systems. It offers simple functionality as an executable tool that cater to system administrators of Windows environments. This README provides detailed information about the software, including its features, system requirements, installation instructions, and usage guidelines.
+Locker is a simple software solution designed to manage the locking and unlocking of users' directories on Windows computing systems. It offers simple functionality as an executable tool that caters to system administrators of Windows environments. This README provides detailed information about the software, including its features, system requirements, installation instructions, and usage guidelines.
 
 ## Table of Contents
 
