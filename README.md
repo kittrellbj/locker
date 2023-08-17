@@ -27,7 +27,7 @@ Locker was built using .NET C# 6.0 LTS and uses some **Windows-only** libraries.
 
 Follow these steps to install Locker:
 
-1. Download the latest release from [GitHub Releases: win-locker.zip](https://github.com/kittrellbj/locker/blob/main/Locker/bin/Release/net6.0-windows/win-locker.zip) - 8/17/2023 - 81 KB
+1. Download the latest release from [GitHub Releases: win-locker.zip](https://github.com/kittrellbj/locker/blob/main/Locker/bin/Release/net6.0-windows/win-locker.zip) - 8/17/2023 - 205 KB
 2. Unzip the downloaded file.
 3. Run the executable and follow the on-screen instructions. **NOTE:** Locker will need to be elevated with administrator permissions to perform many functions.
 
