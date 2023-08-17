@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUz67ppewbl7CXpz3zLJ0lei8p3H0QO9J4YJns8LdL5ykaXf5v27J3yqGfATWKUwrUMCnVaWwt2rP1s+3oSIdA==",
+  "success": true,
+  "projectFilePath": "Z:\\Development\\Code\\C#\\repos\\Locker\\Locker\\Locker\\Locker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kittr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kittr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kittr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kittr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
